@@ -1,4 +1,4 @@
-package com.example.kotlincleanarchitecture.features.login.data.models
+package com.example.kotlincleanarchitecture.data.models.login
 
 import com.google.gson.annotations.SerializedName
 

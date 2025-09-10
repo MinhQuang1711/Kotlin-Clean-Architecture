@@ -1,6 +1,4 @@
-package com.example.kotlincleanarchitecture.features.login.domain.entities
-
-import com.google.gson.annotations.SerializedName
+package com.example.kotlincleanarchitecture.domain.entities.login
 
 class PermissionEntity (
     /// Hàng hoá

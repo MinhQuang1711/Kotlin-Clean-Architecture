@@ -1,4 +1,4 @@
-package com.example.kotlincleanarchitecture.features.login.domain.entities
+package com.example.kotlincleanarchitecture.domain.entities.login
 
 class LoginRequestEntity (
     val username: String,
